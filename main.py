@@ -30,5 +30,3 @@ if read_summary.lower() == "y":
     pygame.mixer.music.play()
     while pygame.mixer.music.get_busy():
         continue
-
-2
